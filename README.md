@@ -28,7 +28,8 @@ NHOM-03-TriTueNhanTao-NhanDienCamXuc/
 ├── TrainData.ipynb         # Notebook dùng để tiền xử lý, huấn luyện và đánh giá mô hình
 ├── collect.py              # Script thu thập dữ liệu (nếu có)
 ├── test5.py                # Script chạy ứng dụng nhận diện real-time
-└── README.md
+├── README.md
+└── images                  # ảnh chứa kết quả chạy 
 ```
 
 
@@ -53,8 +54,7 @@ cd NHOM-03-TriTueNhanTao-NhanDienCamXuc
 ### 4.3. Cài đặt các thư viện
 Cài đặt tất cả các thư viện cần thiết:
 ```bash
-    pip install --upgrade pip
-    pip install opencv-python tensorflow keras numpy pandas matplotlib seaborn
+    pip install -r requirements.txt
 ```
 ### 4.4. Chuẩn bị dữ liệu
 Đảm bảo dữ liệu khuôn mặt đã được phân loại nằm trong thư mục Data/ theo cấu trúc yêu cầu của mô hình.
@@ -81,6 +81,7 @@ Ví dụ trực quan:
 
 Ảnh	Dự đoán
 Happy
+
 Sad
 
 ## 7. Ghi chú
