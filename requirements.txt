@@ -1,0 +1,9 @@
+# requirements.txt
+opencv-python
+mediapipe
+numpy
+tensorflow
+keras
+opencv
+Time
+Pillow
