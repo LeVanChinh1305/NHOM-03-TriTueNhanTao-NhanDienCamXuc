@@ -30,12 +30,11 @@ NHOM-03-TriTueNhanTao-NhanDienCamXuc/
 ├── test5.py                # Script chạy ứng dụng nhận diện real-time
 └── README.md
 ```
-## 4. Cài đặt
 
 
 ## 4. Cài đặt
 
-### 4.1. Clone dự án
+   ### 4.1. Clone dự án
 ```bash
 git clone https://github.com/LeVanChinh1305/NHOM-03-TriTueNhanTao-NhanDienCamXuc.git
 cd NHOM-03-TriTueNhanTao-NhanDienCamXuc 
