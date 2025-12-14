@@ -64,11 +64,23 @@ Chạy lệnh kiểm tra sau để xác nhận các thư viện chính đã đư
 python -c "import cv2, tensorflow, keras, numpy; print('Môi trường đã sẵn sàng!')"
 ```
 ## 5. Sử dụng
-### 5.1. Huấn luyện mô hình
+### 5.1. Thêm dữ liệu bằng collect.py
+Mở terminal hoặc command prompt, điều hướng đến thư mục chứa collect.py:
+```bash
+    cd NHOM-03-TriTueNhanTao-NhanDienCamXuc
+```
+Chạy collect.py
+```bash
+    python collect.py
+```
+kiểm tra thư mục data đẫ cập nhật chưa
+
+tiếp đến huấn luyện 5.2 để  cập nhật mô hình
+### 5.2. Huấn luyện mô hình
 Mở Notebook để tiền xử lý và huấn luyện:
 
 sử dụng google colab
-### 5.2. Nhận diện cảm xúc từ webcam
+### 5.3. Nhận diện cảm xúc từ webcam
 ```bash
 python test5.py 
 ```
