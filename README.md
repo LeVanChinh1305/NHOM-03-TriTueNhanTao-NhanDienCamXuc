@@ -1,4 +1,4 @@
-# Dự án Nhận Diện Cảm Xúc Khuôn Mặt (Facial Emotion Recognition)
+# Nhận Diện Cảm Xúc Khuôn Mặt (Facial Emotion Recognition)
 
 ## 1. Giới thiệu
 Dự án này sử dụng **machine learning** và **computer vision** để nhận diện cảm xúc trên khuôn mặt từ hình ảnh hoặc video. Mục tiêu là phân loại cảm xúc thành các loại như:
@@ -17,6 +17,7 @@ Dự án này sử dụng **machine learning** và **computer vision** để nh�
 - **Matplotlib / Seaborn**: Trực quan hóa kết quả  
 
 ## 3. Cấu trúc dự án
+```bash
 NHOM-03-TriTueNhanTao-NhanDienCamXuc/
 ├── Data/                   # Thư mục chứa dữ liệu hình ảnh khuôn mặt đã được phân loại
 │   ├── vuiVe/
@@ -28,6 +29,7 @@ NHOM-03-TriTueNhanTao-NhanDienCamXuc/
 ├── collect.py              # Script thu thập dữ liệu (nếu có)
 ├── test5.py                # Script chạy ứng dụng nhận diện real-time
 └── README.md
+```
 ## 4. Cài đặt
 
 
