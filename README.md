@@ -67,9 +67,7 @@ python -c "import cv2, tensorflow, keras, numpy; print('Môi trường đã sẵ
 ### 5.1. Huấn luyện mô hình
 Mở Notebook để tiền xử lý và huấn luyện:
 
-```bash
-jupyter notebook TrainData.ipynb
-```
+sử dụng google colab
 ### 5.2. Nhận diện cảm xúc từ webcam
 ```bash
 python test5.py 
@@ -83,7 +81,9 @@ Ví dụ trực quan:
 
 Happy
 [Nhận diện cảm xúc Vui vẻ](images/happy_detection.png "Khuôn mặt vui vẻ được nhận diện")
+
 Sad
+
 
 ## 7. Ghi chú
 Dataset và mô hình cần được tải trước khi chạy script.

@@ -4,6 +4,4 @@ mediapipe
 numpy
 tensorflow
 keras
-opencv
-Time
 Pillow
