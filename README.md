@@ -67,17 +67,13 @@ python -c "import cv2, tensorflow, keras, numpy; print('Môi trường đã sẵ
 ### 5.1. Huấn luyện mô hình
 Mở Notebook để tiền xử lý và huấn luyện:
 
-bash
-Copy code
+```bash
 jupyter notebook TrainData.ipynb
-### 5.2. Nhận diện cảm xúc từ ảnh
-bash
-Copy code
-python test5.py --image path_to_image.jpg
-### 5.3. Nhận diện cảm xúc từ webcam
-bash
-Copy code
-python test5.py --webcam
+```
+### 5.2. Nhận diện cảm xúc từ webcam
+```bash
+python test5.py 
+```
 ## 6. Kết quả
 Mô hình có thể dự đoán cảm xúc với độ chính xác cao trên dữ liệu test.
 
