@@ -80,8 +80,9 @@ Mô hình có thể dự đoán cảm xúc với độ chính xác cao trên d�
 Ví dụ trực quan:
 
 Ảnh	Dự đoán
-Happy
 
+Happy
+[Nhận diện cảm xúc Vui vẻ](images/happy_detection.png "Khuôn mặt vui vẻ được nhận diện")
 Sad
 
 ## 7. Ghi chú
