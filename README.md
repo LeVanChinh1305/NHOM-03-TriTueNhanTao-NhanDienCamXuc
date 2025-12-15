@@ -11,10 +11,10 @@ Dự án này sử dụng **machine learning** và **computer vision** để nh�
 ## 2. Công nghệ sử dụng
 - **Python**  
 - **OpenCV**: Xử lý ảnh và nhận diện khuôn mặt  
-- **TensorFlow / PyTorch**: Xây dựng và huấn luyện mô hình deep learning  
+- **TensorFlow **: Xây dựng và huấn luyện mô hình deep learning  
 - **Keras**: Giao diện mạng nơ-ron  
-- **NumPy, Pandas**: Xử lý dữ liệu  
-- **Matplotlib / Seaborn**: Trực quan hóa kết quả  
+- **NumPy**: Xử lý dữ liệu  
+
 
 ## 3. Cấu trúc dự án
 ```bash
